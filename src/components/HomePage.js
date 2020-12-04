@@ -159,7 +159,7 @@ export default class HomePage extends Component {
                                 </div>
                               </div>
                               <div className="col-md-6">
-                                <div className="drop-bd-paymenntt-slip-signature-righht-signn">
+                                <div className="drop-bd-paymenntt-slip-signature-righht-signn text-right">
                                   <div className="forrrr-borrderr"></div>
                                   <h4>Employee Signature</h4>
                                 </div>

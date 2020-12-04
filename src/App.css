@@ -4,7 +4,9 @@
 }
 .drop-bd-payment-slip-print-main-section {
   margin-top: 15px;
+  margin-bottom: 20px;
 }
+
 .drop-bd-payment-slip-print-main-section-booxxx-bgg {
   background-color: #fff;
 }
@@ -132,7 +134,18 @@ td.shhsfsfghaa {
   padding: 5px;
 }
 .drop-bd-payment-slipp-sectionn thead tr th {
-  border: 2px solid #444444;
+  /* border: 2px solid #444444; */
+  border: none;
+}
+.drop-bd-payment-slipp-sectionn table thead {
+  border: 2px solid #333;
+}
+th.ffonntt-pplstp-bold-neww {
+  text-align: center;
+  float: right;
+}
+th.ffonntt-pplstp-bold-neww input {
+  font-weight: 600;
 }
 
 th.ffonntt-pplstp-bold input {
@@ -163,7 +176,7 @@ button.dropp-bbdd-pmnt-removve:hover {
   font-size: 14px;
   font-style: italic;
   border-top: 2px solid #333;
-  width: 120px;
+  width: 135px;
   padding-top: 5px;
   color: #000;
 }

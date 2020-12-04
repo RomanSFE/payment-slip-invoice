@@ -69,6 +69,7 @@ export default class HomePage extends Component {
                               </div>
                               <div className="col-md-4">
                                 <div className="drop-bd-payment-slip-print-main-date-input">
+                                  <span>Date:</span>
                                   <input type="text" placeholder="03/12/2020"/>
                                 </div>
                               </div>
@@ -149,6 +150,22 @@ export default class HomePage extends Component {
                             </div>
                           </div>
                           {/* Table section */}
+
+                          <div className="drop-bd-paymenntt-slip-signature-main-box">
+                            <div className="row">
+                              <div className="col-md-6">
+                                <div className="drop-bd-paymenntt-slip-signature-left-signn">
+                                  <h4>CEO Signature</h4>
+                                </div>
+                              </div>
+                              <div className="col-md-6">
+                                <div className="drop-bd-paymenntt-slip-signature-righht-signn">
+                                  <div className="forrrr-borrderr"></div>
+                                  <h4>Employee Signature</h4>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>

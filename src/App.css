@@ -34,6 +34,10 @@
 .drop-bd-payment-slip-print-main-section-logo-section {
   border-bottom: 2px solid #797979;
 }
+.drop-bd-payment-slip-print-main-date-input span {
+  font-weight: 500;
+  margin-right: -4px;
+}
 
 /* Name and staf section */
 .drop-bd-payment-slip-print-main-name-and-staf-section {
@@ -153,3 +157,30 @@ button.dropp-bbdd-pmnt-removve:hover {
   transition: .2s;
 }
 /* Table Section */
+
+/* Signature section */
+.drop-bd-paymenntt-slip-signature-left-signn h4 {
+  font-size: 14px;
+  font-style: italic;
+  border-top: 2px solid #333;
+  width: 120px;
+  padding-top: 5px;
+  color: #000;
+}
+.drop-bd-paymenntt-slip-signature-righht-signn h4 {
+  font-size: 14px;
+  font-style: italic;
+  padding-top: 5px;
+  color: #000;
+}
+.drop-bd-paymenntt-slip-signature-main-box {
+  padding: 12px 50px 12px 50px;
+  margin-top: 20px;
+  padding-bottom: 17px;
+}
+.forrrr-borrderr {
+  border: 1px solid #333;
+  width: 150px;
+  float: right;
+}
+/* Signature section */

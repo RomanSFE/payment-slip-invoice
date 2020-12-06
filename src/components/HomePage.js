@@ -103,9 +103,9 @@ export default class HomePage extends Component {
                                     <thead>
                                         <tr>
                                             <th scope="col col-6" className="earnninng-extrs">EARNINGS</th>
-                                            <th scope="col col-6">CURRENT(RM)</th>
+                                            <th scope="col col-6">CURRENT(TK)</th>
                                             <th scope="col col-6" className="earnninng-extrs">DEDUCTIONS</th>
-                                            <th scope="col col-6">CURRENT(RM)</th>
+                                            <th scope="col col-6">CURRENT(TK)</th>
                                         </tr>
                                     </thead>
 
@@ -140,7 +140,7 @@ export default class HomePage extends Component {
                                             <th scope="col col-6" className="earnninng-extrsx">Total</th>
                                             <th scope="col col-6" className="ffonntt-pplstp-bold-ex"></th>
                                             <th scope="col col-6" className="earnninng-extrsx ffonntt-pplstp-bold-exx"></th>
-                                            <th scope="col col-6" className="ffonntt-pplstp-bold-neww"><input type="text"/></th>
+                                            <th scope="col col-6" className="ffonntt-pplstp-bold-neww"><input type="text" placeholder="Total Amount"/></th>
                                         </tr>
                                     </thead>
                                     </table>
@@ -227,9 +227,9 @@ export default class HomePage extends Component {
                                     <thead>
                                         <tr>
                                             <th scope="col col-6" className="earnninng-extrs">EARNINGS</th>
-                                            <th scope="col col-6">CURRENT(RM)</th>
+                                            <th scope="col col-6">CURRENT(TK)</th>
                                             <th scope="col col-6" className="earnninng-extrs">DEDUCTIONS</th>
-                                            <th scope="col col-6">CURRENT(RM)</th>
+                                            <th scope="col col-6">CURRENT(TK)</th>
                                         </tr>
                                     </thead>
 
@@ -264,7 +264,7 @@ export default class HomePage extends Component {
                                             <th scope="col col-6" className="earnninng-extrsx">Total</th>
                                             <th scope="col col-6" className="ffonntt-pplstp-bold-ex"></th>
                                             <th scope="col col-6" className="earnninng-extrsx ffonntt-pplstp-bold-exx"></th>
-                                            <th scope="col col-6" className="ffonntt-pplstp-bold-neww"><input type="text"/></th>
+                                            <th scope="col col-6" className="ffonntt-pplstp-bold-neww"><input type="text" placeholder="Total Amount"/></th>
                                         </tr>
                                     </thead>
                                     </table>

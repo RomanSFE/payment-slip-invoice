@@ -98,10 +98,10 @@
   padding: 12px;
 }
 th.earnninng-extrs {
-  width: 28%;
+  width: 34%;
 }
 th.earnninng-extrsx {
-  width: 28%;
+  width: 34%;
 }
 .merchent-list-brancxx-sec-bbox tbody tr td input {
   border: none;
@@ -197,3 +197,20 @@ button.dropp-bbdd-pmnt-removve:hover {
   float: right;
 }
 /* Signature section */
+
+
+th.drbd-paymnt-slp-sm {
+  width: 13%;
+}
+td.drbd-paymnt-slp-sm-x {
+  width: 10%;
+  padding: 0px;
+}
+td.drbd-paymnt-slp-sm-x input {
+  width: 90%;
+  margin-top: 11px;
+  margin-left: 10px;
+}
+td.drbd-paymnt-slp-sm-txt input {
+  width: 95%;
+}

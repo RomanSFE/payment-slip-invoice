@@ -103,22 +103,22 @@ export default class HomePage extends Component {
                                     <thead>
                                         <tr>
                                             <th scope="col col-6" className="earnninng-extrs">EARNINGS</th>
-                                            <th scope="col col-6">CURRENT(TK)</th>
+                                            <th className="drbd-paymnt-slp-sm" scope="col col-6">CURRENT(TK)</th>
                                             <th scope="col col-6" className="earnninng-extrs">DEDUCTIONS</th>
-                                            <th scope="col col-6">CURRENT(TK)</th>
+                                            <th className="drbd-paymnt-slp-sm" scope="col col-6">CURRENT(TK)</th>
                                         </tr>
                                     </thead>
 
                                         <tbody>
                                             <tr>
-                                                <td>
+                                                <td className="drbd-paymnt-slp-sm-txt">
                                                 <input type="text" placeholder="Basic pay"/>
                                                 </td>
-                                                <td>
+                                                <td className="drbd-paymnt-slp-sm-x">
                                                 <input type="text"/>
                                                 </td>
-                                                <td><input type="text"/></td>
-                                                <td><input type="text"/></td>
+                                                <td className="drbd-paymnt-slp-sm-txt"><input type="text"/></td>
+                                                <td className="drbd-paymnt-slp-sm-x"><input type="text"/></td>
                                             </tr>
                                         </tbody>
 
@@ -227,22 +227,22 @@ export default class HomePage extends Component {
                                     <thead>
                                         <tr>
                                             <th scope="col col-6" className="earnninng-extrs">EARNINGS</th>
-                                            <th scope="col col-6">CURRENT(TK)</th>
+                                            <th className="drbd-paymnt-slp-sm" scope="col col-6">CURRENT(TK)</th>
                                             <th scope="col col-6" className="earnninng-extrs">DEDUCTIONS</th>
-                                            <th scope="col col-6">CURRENT(TK)</th>
+                                            <th className="drbd-paymnt-slp-sm" scope="col col-6">CURRENT(TK)</th>
                                         </tr>
                                     </thead>
 
                                         <tbody>
                                             <tr>
-                                                <td>
+                                                <td className="drbd-paymnt-slp-sm-txt">
                                                 <input type="text" placeholder="Basic pay"/>
                                                 </td>
-                                                <td>
+                                                <td className="drbd-paymnt-slp-sm-x">
                                                 <input type="text"/>
                                                 </td>
-                                                <td><input type="text"/></td>
-                                                <td><input type="text"/></td>
+                                                <td className="drbd-paymnt-slp-sm-txt"><input type="text"/></td>
+                                                <td className="drbd-paymnt-slp-sm-x"><input type="text"/></td>
                                             </tr>
                                         </tbody>
 
